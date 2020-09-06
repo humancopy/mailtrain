@@ -6,10 +6,8 @@ npm-debug.log
 package-lock.json
 .DS_Store
 config/development*
-config/production*
 config/test*
 workers/reports/config/development.*
-workers/reports/config/production.*
 workers/reports/config/test.*
 dump.rdb
 
@@ -29,6 +27,4 @@ public/grapejs/templates/*
 !public/grapejs/templates/demo
 !public/grapejs/templates/aves
 
-config/production.toml
-workers/reports/config/production.toml
 docker-compose.override.yml

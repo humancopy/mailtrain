@@ -1,0 +1,9 @@
+[mysql]
+host="MYSQL_HOST"
+
+[redis]
+enabled=true
+host="REDIS_HOST"
+
+[reports]
+enabled=true
